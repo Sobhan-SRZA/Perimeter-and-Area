@@ -1,3 +1,21 @@
+<div align="center">
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <img src="https://img.shields.io/github/v/release/Sobhan-SRZA/Perimeter-and-Area?label=Version">
+    <div>
+        <img src="https://img.shields.io/github/license/Sobhan-SRZA/Perimeter-and-Area?label=License">
+        <img src="https://img.shields.io/github/last-commit/Sobhan-SRZA/Perimeter-and-Area?label=Last Commit">
+        <img src="https://img.shields.io/github/release-date/Sobhan-SRZA/Perimeter-and-Area?label=Last Release">
+        <img src="https://img.shields.io/github/downloads/Sobhan-SRZA/Perimeter-and-Area/total?label=Downloads">
+    </div>
+    <img src="https://img.shields.io/github/forks/Sobhan-SRZA/Perimeter-and-Area?label=Forks">
+    <img src="https://img.shields.io/github/watchers/Sobhan-SRZA/Perimeter-and-Area?label=Watchers">
+    <img src="https://img.shields.io/github/languages/code-size/Sobhan-SRZA/Perimeter-and-Area?label=Code Size">
+    <img src="https://img.shields.io/github/directory-file-count/Sobhan-SRZA/Perimeter-and-Area?label=Files">
+    <div>
+        <img style="display:block;margin-left:auto;margin-right:auto;width:30%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Sobhan-SRZA&repo=Perimeter-and-Area&theme=react">
+    </div>
+</div>
+
 # Perimeter and Area
  Calculate the perimeter and area of the rectangle in c++.
 
