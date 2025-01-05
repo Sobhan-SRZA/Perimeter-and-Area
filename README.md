@@ -31,7 +31,7 @@ Or you can just open `main.exe` file.
 
 <div align="center">
   <a href="http://sobhan.epizy.com/" target="_blank">
-    <img align="left" src ="https://github.com/Sobhan-SRZA/Sobhan-SRZA/raw/main/source/social-media.png" width = 50% >
+    <img align="left" src ="https://github.com/user-attachments/assets/69b35053-17b1-48c6-a35b-4d3881a4dd2c" width = 50% >
   </a>
   <a href="https://t.me/pc_clubs" target="_blank">
     <img alt="Telegram" src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=229ED9&logoColor=white&labelColor=&style=flat" height="30" />
