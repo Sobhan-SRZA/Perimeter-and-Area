@@ -5,7 +5,6 @@
         <img src="https://img.shields.io/github/license/Sobhan-SRZA/Perimeter-and-Area?label=License">
         <img src="https://img.shields.io/github/last-commit/Sobhan-SRZA/Perimeter-and-Area?label=Last Commit">
         <img src="https://img.shields.io/github/release-date/Sobhan-SRZA/Perimeter-and-Area?label=Last Release">
-        <img src="https://img.shields.io/github/downloads/Sobhan-SRZA/Perimeter-and-Area/total?label=Downloads">
     </div>
     <img src="https://img.shields.io/github/forks/Sobhan-SRZA/Perimeter-and-Area?label=Forks">
     <img src="https://img.shields.io/github/watchers/Sobhan-SRZA/Perimeter-and-Area?label=Watchers">
